@@ -26,7 +26,6 @@ My passion lies in making data-driven decisions and transforming complex data in
 ---
 ## 💻 Tech Stack:
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=matplotlib&logoColor=white)
