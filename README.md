@@ -24,10 +24,6 @@ My passion lies in making data-driven decisions and transforming complex data in
 </p>
 
 ---
-
-## 💻 Tech Stack:
-
-### Skillset
 ## 💻 Tech Stack:
 
 ### Languages
