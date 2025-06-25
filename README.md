@@ -11,7 +11,7 @@ My passion lies in making data-driven decisions and transforming complex data in
 ## 🌐 Socials:
 
 <p align="left">
-    <a href="www.linkedin.com/in/hari-haran-8b260126b">
+    <a href="[www.linkedin.com/in/hari-haran-8b260126b](https://www.linkedin.com/in/hari-haran-8b260126b/)">
         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/hariii1">
         <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
