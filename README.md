@@ -11,7 +11,7 @@ My passion lies in making data-driven decisions and transforming complex data in
 ## 🌐 Socials:
 
 <p align="left">
-    <a href="[Your LinkedIn Profile URL Here]">
+    <a href="www.linkedin.com/in/hari-haran-8b260126b">
         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/hariii1">
         <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -56,15 +56,7 @@ My passion lies in making data-driven decisions and transforming complex data in
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariii1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hariii1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=hariii1&icon=1&color=1)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-<!-- Replace with your actual Buy Me a Coffee link -->
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dhanushwaran)
+
