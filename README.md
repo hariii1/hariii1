@@ -1,58 +1,70 @@
-👋 Hello there! I'm Hariharan Chitra Muthukumar!
-A curious and creative Data Science graduate student currently pursuing my Master's at the University of Europe, Germany 🇩🇪.
+# 👋 Hello there! I'm Hariharan Chitra Muthukumar!
 
-My journey in data began with a Bachelor’s in Computer Science, which provided me with a strong foundational understanding of programming and systems. This was further enriched by 6 months of hands-on experience in UI/UX design, giving me a unique perspective on user-centered problem-solving and the importance of presenting complex information intuitively.
+**`Data Science Graduate Student (Analytics/Engineering/ML/Viz)`**
 
-🌟 What I'm Passionate About
-My core passion lies in making data-driven decisions and transforming complex, raw data into actionable insights. I thrive on leveraging the power of machine learning and data visualization to uncover hidden patterns and tell compelling stories with data.
+I'm a curious and creative Data Science graduate student currently pursuing my Master's at the University of Europe, Germany 🇩🇪. With a Bachelor's in Computer Science and 6 months of hands-on experience in UI/UX design, I bring a unique blend of technical knowledge and design thinking.
 
-I've actively worked on various machine learning projects, developing and applying classification models such as:
+My passion lies in making data-driven decisions and transforming complex data into actionable insights using machine learning and data visualization tools. I've worked on classification models like Logistic Regression, Neural Networks, and Random Forest for real-world use cases such as heart disease prediction and astronomical object classification.
 
-Logistic Regression
+🚀 Currently looking for internship opportunities in Data Science, Machine Learning, or Analytics to apply my academic knowledge to impactful real-world problems.
 
-Neural Networks
+## 🌐 Socials:
 
-Random Forest
-...for real-world use cases like heart disease prediction and astronomical object classification.
+<p align="left">
+    <a href="[Your LinkedIn Profile URL Here]">
+        <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/hariii1">
+        <img alt="GitHub" title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <!-- Add other social links as needed, e.g.:
+    <a href="[Your Medium Profile URL Here]">
+        <img alt="Medium" title="Read my articles on Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="[Your Stack Overflow Profile URL Here]">
+        <img alt="Stack Overflow" title="My Stack Overflow Profile" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+    -->
+</p>
 
-🛠️ My Skillset
-I bring a unique blend of technical knowledge and design thinking to every challenge. My toolkit includes:
+---
 
-Programming Languages: Python (strong foundation)
+### 🧰 Languages and Tools
 
-Data Analysis & Manipulation: Pandas, NumPy
+<p align="left">
+    <!-- Languages -->
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+    <!-- Libraries & Frameworks (Data Science) -->
+    <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+    <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+    <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+    <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"/>
+    <!-- Databases & Tools -->
+    <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img align="left" alt="Apache Airflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
+    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+    <!-- Design & Prototyping -->
+    <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <br clear="left"/>
+</p>
 
-Data Visualization: Seaborn, Matplotlib, (and a design-centric approach from UI/UX)
+#
 
-Machine Learning: Scikit-learn (Classification, Regression, etc.)
+### 📊 Stats
 
-Data Engineering: Apache Airflow (for building robust data pipelines), PostgreSQL (for database interactions)
+![Hariharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariii1&show_icons=true&theme=radical)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariii1&theme=radical&hide_border=false)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariii1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Version Control: Git, GitHub
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hariii1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-✨ Featured Projects (and the kind of problems I love to solve)
-E-commerce Behavior Analysis Pipeline: Built an automated data pipeline using Apache Airflow to extract, process, and analyze online shopping behavior, revealing regional preferences and purchasing habits.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-African Trade Data Analysis: Explored and visualized commodity trade patterns and identified key trading partners in countries like Kenya and Mali, using national statistical bureau data.
+---
+[![](https://visitcount.itsvg.in/api?id=hariii1&icon=1&color=1)](https://visitcount.itsvg.in)
 
-Cosmic Object Classification: Developed machine learning models to classify celestial objects (Stars, Galaxies, Quasars) based on astronomical measurements, contributing to a better understanding of the universe.
-
-(You can explore these and more in my repositories!)
-
-🚀 Currently Looking For
-I am actively seeking internship opportunities in Data Science, Machine Learning, or Analytics. I am eager to apply my academic knowledge and hands-on experience to impactful real-world problems and contribute to innovative teams.
-
-🤝 Let's Connect!
-If you're looking for someone who is data-driven, design-aware, always learning, and excited to tackle new challenges, let's connect!
-
-www.linkedin.com/in/hari-haran-8b260126b
-
-🌐 Socials
-www.linkedin.com/in/hari-haran-8b260126b
-
-
-💻 Tech Stack
-Languages
-Libraries & Frameworks (Data Science)
-Databases & Tools
-Design & Prototyping
+## 💰 You can help me by Donating
+<!-- Replace with your actual Buy Me a Coffee link -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dhanushwaran)
