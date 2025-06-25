@@ -43,13 +43,6 @@ My passion lies in making data-driven decisions and transforming complex data in
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhanushwaran06&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhanushwaran06&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushwaran06&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhanushwaran06&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 
